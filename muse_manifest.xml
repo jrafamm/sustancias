@@ -1,0 +1,43 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="001.probandomaterial.xyz" resolutions="1x" timestamp="1573667102287">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="433567478" ref="index"/>
+    <file name="nomq_index.css" crc="3998148625" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="puerta-giratoria-2">
+      <folder name="images">
+        <file name="Asset13.png" crc="246163154" mt="1573662723000"/>
+        <file name="Asset14.png" crc="3999736610" mt="1573662723000"/>
+        <file name="Asset15.png" crc="376631535" mt="1573662723000"/>
+        <file name="Asset16.png" crc="3802626302" mt="1573662723000"/>
+        <file name="Asset17.png" crc="4085752365" mt="1573662723000"/>
+        <file name="Asset18.png" crc="4060936009" mt="1573662723000"/>
+        <file name="puerta giratoria 2_atlas_.png" crc="3927501956" mt="1573662723000"/>
+      </folder>
+      <file name="puerta giratoria 2.js" crc="3876494432" mt="1573662723000"/>
+      <file name="puerta giratoria 2.html" crc="4120633251" mt="1573662723000"/>
+    </folder>
+    <file name="puerta-giratoria.fla" crc="3961671977" seo="true" mt="1572966780000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="intro-bg.jpg" crc="3887762277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-bg1113x741.jpg" crc="327686581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="503982150" seo="true" mt="1573664322207" redirect="true"/>
+</manifest>
